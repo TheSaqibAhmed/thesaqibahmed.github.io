@@ -1,0 +1,5 @@
+# Basic Settings
+title: "Saqib Ahmed"
+description: "A showcase of my work and projects"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thesaqibahmed.github.io" # the base hostname & protocol for your site
